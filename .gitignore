@@ -1,0 +1,15 @@
+# copied these from https://github.com/mattmc3/fishconf/tree/main
+# highly doubt I would have all these files or use the exact same plugins,
+# in any case, these should do fine.
+.reel/
+.fisher/
+fisher/
+themes
+!**/themes/
+fish_variables
+*.local
+*.local.*
+*.local/
+local/
+fishprof*.txt
+.omf2/
