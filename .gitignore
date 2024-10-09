@@ -13,3 +13,6 @@ fish_variables
 local/
 fishprof*.txt
 .omf2/
+
+# sublime text / merge
+*.sublime_license
