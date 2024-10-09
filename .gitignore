@@ -16,3 +16,4 @@ fishprof*.txt
 
 # sublime text / merge
 *.sublime_license
+*.sublime_session
