@@ -1,0 +1,14 @@
+{
+	"ignored_packages": ["Vintage",
+	],
+	"color_scheme": "Packages/Gruvbox Dark/gruvbox.tmTheme",
+	"index_files": true,
+	"rulers": [
+		[80, "solid", 2],
+		[72, "dotted", 1],
+		[120, "dotted"]
+	],
+	"ensure_newline_at_eof_on_save": true,
+	"default_line_ending": "unix",
+	"trim_trailing_white_space_on_save": "all",
+}
